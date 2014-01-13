@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-ClickfindApp::Application.config.secret_key_base = 'd84d8dcf69e225fcca6ebf096096e260bf78d3134f49bbe6117daec1ca81b7dcb76b50172c3631ee167a4d8a8a92ad68807842f274752ba0c2d8e72b21c72f38'
+ClickfindApp::Application.config.secret_key_base = '2203539635ff9d54b9933c772fc012f7b6eca03a12d40449d1d3275a3fe8327357a56b2ea31e5db5e71c16fa6243082761dfd4654f27440b1d19cf1bd1cb2f4b'
